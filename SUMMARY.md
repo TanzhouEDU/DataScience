@@ -18,7 +18,14 @@
 
 * [NumPy](scientific-computing/numpy.md)
 * [SciPy](scientific-computing/scipy.md)
-* [Pandas](scientific-computing/pandas.md)
-* [MatplotLib](scientific-computing/matplotlib.md)
 * [SymPy](scientific-computing/sympy.md)
+
+## Data Visualization
+
+* [MatplotLib](data-visualization/matplotlib.md)
+* [Seaborn](data-visualization/seaborn.md)
+
+## Data Analysis
+
+* [Pandas](data-analysis/pandas.md)
 
