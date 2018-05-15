@@ -11,6 +11,9 @@
 
 ## Environment
 
+* [IPython](environment/ipython.md)
+* [Jupyter](environment/jupyter.md)
+
 ## Scientific Computing
 
 * [NumPy](scientific-computing/numpy.md)
