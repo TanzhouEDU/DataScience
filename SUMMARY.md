@@ -9,3 +9,13 @@
 * [概率论](mathematics/probability-theory.md)
 * [统计学](mathematics/statistics.md)
 
+## Environment
+
+## Scientific Computing
+
+* [NumPy](scientific-computing/numpy.md)
+* [SciPy](scientific-computing/scipy.md)
+* [Pandas](scientific-computing/pandas.md)
+* [MatplotLib](scientific-computing/matplotlib.md)
+* [SymPy](scientific-computing/sympy.md)
+
