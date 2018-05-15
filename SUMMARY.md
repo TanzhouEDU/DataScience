@@ -9,25 +9,23 @@
 * [概率论](mathematics/probability-theory.md)
 * [统计学](mathematics/statistics.md)
 
-## Environment
+## 环境
 
 * [IPython](environment/ipython.md)
 * [Jupyter](environment/jupyter.md)
 
-## Scientific Computing
+## 科学计算
 
 * [NumPy](scientific-computing/numpy.md)
 * [SciPy](scientific-computing/scipy.md)
 * [SymPy](scientific-computing/sympy.md)
 
-## Data Visualization
+## 数据可视化
 
 * [MatplotLib](data-visualization/matplotlib.md)
 * [Seaborn](data-visualization/seaborn.md)
 
-## Data Analysis
+## 数据分析
 
 * [Pandas](data-analysis/pandas.md)
-
-## Natural Language Processing
 
