@@ -9,6 +9,13 @@
 * [概率论](mathematics/probability-theory.md)
 * [统计学](mathematics/statistics.md)
 
+## Data Collection
+
+* [Requests](data-collection/requests.md)
+* [BeautifulSoup](data-collection/beautifulsoup.md)
+* [PySpider](data-collection/pyspider.md)
+* [Scrapy](data-collection/scrapy.md)
+
 ## 环境
 
 * [IPython](environment/ipython.md)
